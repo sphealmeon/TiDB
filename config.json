@@ -1,0 +1,10 @@
+{
+    "TOKEN": "",
+    "DB_USER": "2rt95zELAjuaNfs.root",
+    "DB_PASS":"",
+    "DB_HOST": "gateway01.eu-central-1.prod.aws.tidbcloud.com",
+    "DB_PORT": "4000",
+    "DB_NAME" :"cybersecdb",
+    "PREFIX": "/",
+    "LOCALE": "en"
+}
