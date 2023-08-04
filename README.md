@@ -27,3 +27,11 @@ A bot designed for the TIDB Future App Hackathon to solve both the issue of auto
 10. When running the code in discord, file has to be named p.
 
    
+# Functionalities
+
+- Can process all languages
+- Can auto-moderate voice channels
+
+# Language Codes List
+
+Google Langugage Code Website -> (https://developers.google.com/admin-sdk/directory/v1/languages)
